@@ -7,7 +7,11 @@ namespace TestProject1
 		[TestMethod]
 		public void TestMethod1()
 		{
-			
+			bool check = false;
+			//other code
+			//bishop 1
+			//bishop 2
+			Assert.IsTrue(check);
 		}
 	}
 }
